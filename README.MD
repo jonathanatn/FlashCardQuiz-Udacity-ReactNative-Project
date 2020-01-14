@@ -1,6 +1,6 @@
-# mobileFlashcard
+# FlashCardQuiz
 
-mobileFlashcard is an Udacity project. It's a simple study tools, create deck of cards on a subject, add new cards in your deck and quiz yourself.
+FlashCardQuiz is an Udacity project. It's a simple study tools, create deck of cards on a subject, add new cards in your deck and quiz yourself.
 
 ## Platform
 
