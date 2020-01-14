@@ -19,7 +19,6 @@ yarn global add create-react-native-app
 Install dependency and launch the server:
 
 ```bash
-cd mobileFlashcard
 yarn install
 yarn start
 ```
